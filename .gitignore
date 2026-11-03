@@ -1,4 +1,5 @@
 # Raw and generated genomics data
+/s[0-9]*/
 plant-genome-resources/data/
 plant-genome-resources/clean/
 plant-genome-resources/clean_v2/
@@ -20,6 +21,14 @@ plant-genome-resources/results/
 
 # Generated reports and archives
 data-validation-report.tsv
+plant-genome-resources/resources/species_registry.tsv
+plant-genome-resources/resources/species_registry_v2.tsv
+plant-genome-resources/resources/stage_preprocess_v2_summary.tsv
+plant-genome-resources/resources/stage3_analysis_manifest_sha256.tsv
+plant-genome-resources/resources/stage3_preprocess_summary.tsv
+plant-genome-resources/resources/wgdi_file_index.tsv
+plant-genome-resources/resources/wgdi_v2_index.tsv
+plant-genome-resources/resources/wgdi_v2_manifest_sha256.tsv
 *.zip
 *.sha256
 
