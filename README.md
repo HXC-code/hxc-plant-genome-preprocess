@@ -9,9 +9,9 @@ Copy this repository into the Codex user skill directory under a folder matching
 the skill name:
 
 ```powershell
-git clone https://github.com/HXC-code/plant-genome-wgdi-preprocess.git
+git clone https://github.com/HXC-code/hxc-plant-genome-preprocess.git
 Copy-Item `
-  .\plant-genome-wgdi-preprocess `
+  .\hxc-plant-genome-preprocess `
   "$HOME\.codex\skills\plant-genome-wgdi-preprocess" `
   -Recurse
 ```
