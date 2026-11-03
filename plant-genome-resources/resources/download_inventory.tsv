@@ -1,0 +1,21 @@
+showid	Order	Family	Species	gff	genome	cds	pep	rna	gbff	gtf
+5	Fabales	Fabaceae	Abrus precatorius	GCF_003935025.1_Abrus_2018_genomic.gff.gz		GCF_003935025.1_Abrus_2018_cds_from_genomic.fna.gz	GCF_003935025.1_Abrus_2018_protein.faa.gz			
+7	Fabales	Fabaceae	Acacia crassicarpa	GCA_034222035.1_Acra_USDA_v1_genomic.gff.gz		GCA_034222035.1_Acra_USDA_v1_cds_from_genomic.fna.gz	GCA_034222035.1_Acra_USDA_v1_protein.faa.gz			
+225	Lamiales	Acanthaceae	Andrographis paniculata	GCF_009805555.1_ASM980555v1_genomic.gff.gz		GCF_009805555.1_ASM980555v1_cds_from_genomic.fna.gz	GCF_009805555.1_ASM980555v1_protein.faa.gz			
+640	Caryophyllales	Chenopodiaceae	Beta vulgaris	GCF_002917755.1_EL10_1.0_genomic.gff.gz		GCF_002917755.1_EL10_1.0_cds_from_genomic.fna.gz	GCF_002917755.1_EL10_1.0_protein.faa.gz			
+916	Brassicales	Brassicaceae	Camelina sativa	GCF_000633955.1_Cs_genomic.gff.gz		GCF_000633955.1_Cs_cds_from_genomic.fna.gz	GCF_000633955.1_Cs_protein.faa.gz			
+996	Brassicales	Brassicaceae	Capsella rubella	GCF_000375325.1_Caprub1_0_genomic.gff.gz		GCF_000375325.1_Caprub1_0_cds_from_genomic.fna.gz	GCF_000375325.1_Caprub1_0_protein.faa.gz			
+1502	Cupressales	Cupressaceae	Cryptomeria japonica	GCF_030272615.1_Sugi_1.0_genomic.gff.gz		GCF_030272615.1_Sugi_1.0_cds_from_genomic.fna.gz	GCF_030272615.1_Sugi_1.0_protein.faa.gz			
+1571	Cucurbitales	Cucurbitaceae	Cucurbita moschata	GCF_002738365.1_Cmos_1.0_genomic.gff.gz		GCF_002738365.1_Cmos_1.0_cds_from_genomic.fna.gz	GCF_002738365.1_Cmos_1.0_protein.faa.gz			
+1572	Cucurbitales	Cucurbitaceae	Cucurbita pepo	GCF_002806865.1_ASM280686v2_genomic.gff.gz		GCF_002806865.1_ASM280686v2_cds_from_genomic.fna.gz	GCF_002806865.1_ASM280686v2_protein.faa.gz			
+1610	Asterales	Asteraceae	Cynara cardunculus	GCF_001531365.2_CcrdV1.1_genomic.gff.gz		GCF_001531365.2_CcrdV1.1_cds_from_genomic.fna.gz	GCF_001531365.2_CcrdV1.1_protein.faa.gz			
+2591	Solanales	Convolvulaceae	Ipomoea triloba	GCF_003576645.1_ASM357664v1_genomic.gff.gz		GCF_003576645.1_ASM357664v1_cds_from_genomic.fna.gz	GCF_003576645.1_ASM357664v1_protein.faa.gz			
+2861	Santalales	Ximeniaceae	Malania oleifera	GCF_029873635.1_ASM2987363v1_genomic.gff.gz		GCF_029873635.1_ASM2987363v1_cds_from_genomic.fna.gz	GCF_029873635.1_ASM2987363v1_protein.faa.gz			
+3092	Sphaeropleales	Selenastraceae	Monoraphidium neglectum	GCF_000611645.1_mono_v1_genomic.gff.gz		GCF_000611645.1_mono_v1_cds_from_genomic.fna.gz	GCF_000611645.1_mono_v1_protein.faa.gz			
+4186	Asparagales	Orchidaceae	Phalaenopsis equestris	GCF_001263595.1_ASM126359v1_genomic.gff.gz		GCF_001263595.1_ASM126359v1_cds_from_genomic.fna.gz	GCF_001263595.1_ASM126359v1_protein.faa.gz			
+4450	Fabales	Fabaceae	Prosopis alba	GCF_004799145.1_ASM479914v1_genomic.gff.gz		GCF_004799145.1_ASM479914v1_cds_from_genomic.fna.gz	GCF_004799145.1_ASM479914v1_protein.faa.gz			
+4775	Rosales	Rosaceae	Rosa chinensis	GCF_002994745.2_RchiOBHm-V2_genomic.gff.gz		GCF_002994745.2_RchiOBHm-V2_cds_from_genomic.fna.gz	GCF_002994745.2_RchiOBHm-V2_protein.faa.gz			
+5282	Solanales	Solanaceae	Solanum stenotomum	GCF_019186545.1_ASM1918654v1_genomic.gff.gz		GCF_019186545.1_ASM1918654v1_cds_from_genomic.fna.gz	GCF_019186545.1_ASM1918654v1_protein.faa.gz			
+5512	Brassicales	Cleomaceae	Tarenaya hassleriana	GCF_000463585.1_ASM46358v1_genomic.gff.gz		GCF_000463585.1_ASM46358v1_cds_from_genomic.fna.gz	GCF_000463585.1_ASM46358v1_protein.faa.gz			
+5521	Proteales	Proteaceae	Telopea speciosissima	GCF_018873765.1_Tspe_v1_genomic.gff.gz		GCF_018873765.1_Tspe_v1_cds_from_genomic.fna.gz	GCF_018873765.1_Tspe_v1_protein.faa.gz			
+5639	Celastrales	Celastraceae	Tripterygium wilfordii	GCF_013401445.1_ASM1340144v1_genomic.gff.gz		GCF_013401445.1_ASM1340144v1_cds_from_genomic.fna.gz	GCF_013401445.1_ASM1340144v1_protein.faa.gz			

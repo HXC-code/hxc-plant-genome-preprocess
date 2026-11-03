@@ -1,0 +1,5 @@
+interface:
+  display_name: "Plant Genome WGDI Preprocess"
+  short_description: "Build and validate WGDI-ready plant genome inputs"
+  default_prompt: "Use $plant-genome-wgdi-preprocess to standardize NCBI plant annotations and validate a WGDI-ready dataset."
+

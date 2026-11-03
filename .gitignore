@@ -1,0 +1,44 @@
+# Raw and generated genomics data
+plant-genome-resources/data/
+plant-genome-resources/clean/
+plant-genome-resources/clean_v2/
+plant-genome-resources/analysis/
+plant-genome-resources/analysis_v2/
+plant-genome-resources/logs/
+plant-genome-resources/runs/
+plant-genome-resources/results/
+*.bed
+*.cds
+*.fa
+*.faa
+*.fna
+*.gff
+*.gff3
+*.gz
+*.lens
+*.pep
+
+# Generated reports and archives
+data-validation-report.tsv
+*.zip
+*.sha256
+
+# Python
+__pycache__/
+*.py[cod]
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.venv/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
